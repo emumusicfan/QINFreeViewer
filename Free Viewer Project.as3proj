@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project version="2">
+  <!-- Output SWF options -->
+  <output>
+    <movie outputType="Application" />
+    <movie input="" />
+    <movie path="bin\FreeViewerProject.swf" />
+    <movie fps="30" />
+    <movie width="630" />
+    <movie height="465" />
+    <movie version="10" />
+    <movie minorVersion="1" />
+    <movie platform="Flash Player" />
+    <movie background="#FFFFFF" />
+  </output>
+  <!-- Other classes to be compiled into your SWF -->
+  <classpaths>
+    <class path="src" />
+  </classpaths>
+  <!-- Build options -->
+  <build>
+    <option accessible="False" />
+    <option allowSourcePathOverlap="False" />
+    <option benchmark="True" />
+    <option es="False" />
+    <option locale="" />
+    <option loadConfig="" />
+    <option optimize="True" />
+    <option omitTraces="True" />
+    <option showActionScriptWarnings="True" />
+    <option showBindingWarnings="True" />
+    <option showInvalidCSS="True" />
+    <option showDeprecationWarnings="True" />
+    <option showUnusedTypeSelectorWarnings="True" />
+    <option strict="True" />
+    <option useNetwork="False" />
+    <option useResourceBundleMetadata="True" />
+    <option warnings="True" />
+    <option verboseStackTraces="False" />
+    <option linkReport="" />
+    <option loadExterns="" />
+    <option staticLinkRSL="True" />
+    <option additional="-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_散&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_大&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_食&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_中&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_跪&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_名&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_綽&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_注&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_搯起&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_抓起&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_帶起&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_上&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_下&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_進&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_退&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_撞&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_雙&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_滸&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_復&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_1&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_2&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_3&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_4&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_5&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_6&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_7&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_8&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_9&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_10&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_11&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_12&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_13&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_挑&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_勾&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_打&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_抹&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_摘&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_剔&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_擘&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_托&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_滾&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_至&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_撮&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_泛起&#xA;-includes qin.jzFonts.droidSansFallback.JzFont_DroidSansFallback_泛止" />
+    <option compilerConstants="" />
+    <option minorVersion="" />
+  </build>
+  <!-- SWC Include Libraries -->
+  <includeLibraries>
+    <element path="src\User Interface.swc" />
+  </includeLibraries>
+  <!-- SWC Libraries -->
+  <libraryPaths>
+    <!-- example: <element path="..." /> -->
+  </libraryPaths>
+  <!-- External Libraries -->
+  <externalLibraryPaths>
+    <!-- example: <element path="..." /> -->
+  </externalLibraryPaths>
+  <!-- Runtime Shared Libraries -->
+  <rslPaths>
+    <!-- example: <element path="..." /> -->
+  </rslPaths>
+  <!-- Intrinsic Libraries -->
+  <intrinsics>
+    <!-- example: <element path="..." /> -->
+  </intrinsics>
+  <!-- Assets to embed into the output SWF -->
+  <library>
+    <!-- example: <asset path="..." id="..." update="..." glyphs="..." mode="..." place="..." sharepoint="..." /> -->
+  </library>
+  <!-- Class files to compile (other referenced classes will automatically be included) -->
+  <compileTargets>
+    <compile path="src\Main.as" />
+  </compileTargets>
+  <!-- Paths to exclude from the Project Explorer tree -->
+  <hiddenPaths>
+    <!-- example: <hidden path="..." /> -->
+  </hiddenPaths>
+  <!-- Executed before build -->
+  <preBuildCommand />
+  <!-- Executed after build -->
+  <postBuildCommand alwaysRun="False" />
+  <!-- Other project options -->
+  <options>
+    <option showHiddenPaths="False" />
+    <option testMovie="Default" />
+  </options>
+  <!-- Plugin storage -->
+  <storage />
+</project>
